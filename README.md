@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/wxq0n8qdjewrxa5k?svg=true)](https://ci.appveyor.com/project/AnastasiaBorisovna/api-sglik)
+[![Build status](https://ci.appveyor.com/api/projects/status/oig0lwmp4v6bx56n?svg=true)](https://ci.appveyor.com/project/AnastasiaBorisovna/api-test)
